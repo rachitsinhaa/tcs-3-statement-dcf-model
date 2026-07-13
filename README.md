@@ -49,7 +49,7 @@ A fully linked 3-statement financial model (Income Statement, Balance Sheet, Cas
 
 - Historical financials: [screener.in/company/TCS/consolidated](https://www.screener.in/company/TCS/consolidated/)
 - Share price & market cap: [screener.in](https://www.screener.in/company/TCS/consolidated/) , close of 1 Jul 2026
-- India 10-year G-Sec yield: [tradingeconomics.com](https://www.tradingeconomics.com) , early Jul 2026
+- India 10-year G-Sec yield: [tradingeconomics.com](https://tradingeconomics.com/india/government-bond-yield) , early Jul 2026
 
 ---
 
