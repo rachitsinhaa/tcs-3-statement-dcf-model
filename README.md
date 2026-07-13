@@ -54,3 +54,4 @@ A fully linked 3-statement financial model (Income Statement, Balance Sheet, Cas
 ---
 
 Built as a self-directed learning project to understand 3-statement modeling and DCF mechanics end-to-end - not copied from a template.
+Built for learning purposes; not a recommendation to buy or sell TCS shares.
