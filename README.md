@@ -52,6 +52,6 @@ A fully linked 3-statement financial model (Income Statement, Balance Sheet, Cas
 - India 10-year G-Sec yield: [tradingeconomics.com](https://tradingeconomics.com/india/government-bond-yield) , early Jul 2026
 
 ---
-
+Download/Preview Link: [Download the model](./3%20Statement%20DCF%20Model%20(TCS)%20by%20Rachit%20Sinha.xlsx)
 Built as a self-directed learning project to understand 3-statement modeling and DCF mechanics end-to-end - not copied from a template.
 Built for learning purposes; not a recommendation to buy or sell TCS shares.
