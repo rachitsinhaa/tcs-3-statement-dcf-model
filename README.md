@@ -25,12 +25,12 @@ A fully linked 3-statement financial model (Income Statement, Balance Sheet, Cas
 
 ## Color convention
 
-- **Blue text** — hardcoded input (historical actual or typed assumption)
-- **Black text** — formula referencing the same sheet
-- **Green text** — formula linking to another sheet
-- **Yellow fill** — key assumption, meant to be edited
-- **Light blue fill** — subtotal/total row
-- **Light red fill** — balance or sanity check
+- **Blue text** - hardcoded input (historical actual or typed assumption)
+- **Black text** - formula referencing the same sheet
+- **Green text** - formula linking to another sheet
+- **Yellow fill** - key assumption, meant to be edited
+- **Light blue fill** - subtotal/total row
+- **Light red fill** - balance or sanity check
 
 ## Key output (base case)
 
